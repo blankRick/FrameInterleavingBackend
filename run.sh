@@ -1,0 +1,1 @@
+g++ pattern.cpp -o pattern.exe; ./pattern.exe 73.3 2 0 Output_ test_images/test_0001/IMG_5170_0031.jpg test_images/test_0001/IMG_5170_0032.jpg
